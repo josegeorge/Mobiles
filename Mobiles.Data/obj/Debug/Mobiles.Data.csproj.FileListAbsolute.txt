@@ -1,0 +1,10 @@
+E:\Jeevan Mobiles Porject\Mobiles\Mobiles.Data\bin\Debug\Mobiles.Data.dll.config
+E:\Jeevan Mobiles Porject\Mobiles\Mobiles.Data\bin\Debug\Mobiles.Data.dll
+E:\Jeevan Mobiles Porject\Mobiles\Mobiles.Data\bin\Debug\Mobiles.Data.pdb
+E:\Jeevan Mobiles Porject\Mobiles\Mobiles.Data\bin\Debug\EntityFramework.dll
+E:\Jeevan Mobiles Porject\Mobiles\Mobiles.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Jeevan Mobiles Porject\Mobiles\Mobiles.Data\bin\Debug\EntityFramework.xml
+E:\Jeevan Mobiles Porject\Mobiles\Mobiles.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Jeevan Mobiles Porject\Mobiles\Mobiles.Data\obj\Debug\Mobiles.Data.csprojResolveAssemblyReference.cache
+E:\Jeevan Mobiles Porject\Mobiles\Mobiles.Data\obj\Debug\Mobiles.Data.dll
+E:\Jeevan Mobiles Porject\Mobiles\Mobiles.Data\obj\Debug\Mobiles.Data.pdb

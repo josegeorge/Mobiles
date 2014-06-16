@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Mobiles.Data.Models.SpecifictionType>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+           <strong> @Html.DisplayFor(modelItem => item.Name)</strong>
+        </td>
+        <td>
+        </td>
+        <td></td>
+    </tr>
+
+    foreach (var heading in item.SpecifictionHeadings.OrderBy(h=>h.Name))
+    {
+        <tr>
+        <td>
+            
+        </td>
+            <td>
+                @Html.DisplayFor(modelItem => heading.Name)
+            </td>
+            <td>
+                @Html.ActionLink("View Values","CurrentHeadingValues",new {id=heading.Id})
+            </td>
+    </tr>
+    }
+    
+}
+
+</table>
